@@ -1,0 +1,23 @@
+Assignment 2 [Form validation using JavaScript] :
+
+Validation using Javscript - Popup Alert
+
+Refer the link: http://wireframes.php-dev.in/training/v1.2/javascript/assignment_1/
+
+Download the HTML code - Click here
+Instructions:
+
+You will have to validate the form as per below instructions: Add Extra Validations Also
+Firstname - Compulsory
+Lastname - Compulsory
+Phone No - Compulsory, Only Nos, exact 10 digit
+Office No - Only Nos
+Email - Compulsory, Email validation
+Password - Compulsory, Range should be between 8 to 12 charachers, should accept only Alphanumeric characters, No Special characters
+Confirm Password - Compulsory, Exactly same as Password
+DOB - Compulsory
+Age - Dissabled field, It should calculate the Age based on DOB entered above. It should show value as 25.6 years
+Gender - Compulsory
+Interest - It should have min 1 value selected
+
+About you - Compulsory
